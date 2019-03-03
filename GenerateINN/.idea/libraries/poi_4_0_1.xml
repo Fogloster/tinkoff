@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="poi-4.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-examples-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-excelant-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-ooxml-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-ooxml-schemas-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../librarys/poi/poi-scratchpad-4.0.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../lib/poi" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../lib/poi/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/itext/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/itext/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/pdfa/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/pdfa/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/xmlworker/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/xmlworker/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/xtra/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../lib/itextPDF/xtra/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../lib/poi" recursive="false" />
+  </library>
+</component>
