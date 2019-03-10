@@ -7,6 +7,16 @@ import java.net.URL;
 import java.text.NumberFormat;
 import java.util.Date;
 
+/*
+ * Класс PdfGeneration
+ * Генерирует PDF файл
+ *
+ * Создано 10.03.2019
+ *
+ * Автор Сунгатуллин Радик Ильдарович
+ */
+
+
 public class PdfGeneration {
     static int FONT_SIZE_SMALL = 16;
     static int FONT_SIZE_BIG = 32;

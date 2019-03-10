@@ -3,6 +3,16 @@ import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.Random;
 
+/*
+ * Класс DateGen
+ * Генерирует случайную дату в формате "dd-MM-yyyy"
+ *
+ * Создано 10.03.2019
+ *
+ * Автор Сунгатуллин Радик Ильдарович
+ */
+
+
 public class DateGen {
 
     public LocalDate randomBirthday(int yearMin, int yearMax) {

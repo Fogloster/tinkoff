@@ -18,6 +18,14 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+ * Класс Builder - Создает эксель файл, в который помещаются данные рандомно сгенерированные из списков
+ * Создано 10.03.2019
+ *
+ * Автор Сунгатуллин Радик Ильдарович
+ */
+
+
 public class Builder {
 
     public ArrayList<String> arrayFromFile(String FileName) {
